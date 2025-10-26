@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mes Rappels</title>
+</head>
+<body>
+    <h1>Rappels quotidiens</h1>
+    <ul>
+        <li>Bois de l’eau régulièrement 💧</li>
+        <li>Respire profondément 🧘</li>
+        <li>Prends une pause sans écran ☀️</li>
+    </ul>
+    <a href="/">Retour à l’accueil</a>
+</body>
+</html>
